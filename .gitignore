@@ -1,0 +1,4 @@
+passwords/
+env/
+__pycache__/
+*.sqlite3
