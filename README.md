@@ -34,4 +34,4 @@ Return the Access Token of the Refresh token provided.
 
 Note- Inorder to access the APIs upto 8, you need to pass Access Token.
 
-For Deploying the project we need to follow the instruction given in the documentation (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
+For Deploying the project we need to follow the instruction given in the documentation (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html), if provided credentials, can deploy the project.
